@@ -1,4 +1,4 @@
-# kenobi
+# kenobi [by hatim satri]
 
 ![ken](https://user-images.githubusercontent.com/32848915/197361401-106ba5cb-e7d2-49b5-a8f3-53b8182f4f8e.PNG)
 
