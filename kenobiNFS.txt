@@ -1,0 +1,17 @@
+total 56
+drwxr-xr-x 14 root root    4096 Sep  4  2019 .
+drwxr-xr-x  4 root root    4096 Oct 22 15:40 ..
+drwxr-xr-x  2 root root    4096 Sep  4  2019 backups
+drwxr-xr-x  9 root root    4096 Sep  4  2019 cache
+drwxrwxrwt  2 root root    4096 Sep  4  2019 crash
+drwxr-xr-x 40 root root    4096 Sep  4  2019 lib
+drwxrwsr-x  2 root staff   4096 Apr 12  2016 local
+lrwxrwxrwx  1 root root       9 Sep  4  2019 lock -> /run/lock
+drwxrwxr-x 10 root crontab 4096 Sep  4  2019 log
+drwxrwsr-x  2 root mail    4096 Feb 26  2019 mail
+drwxr-xr-x  2 root root    4096 Feb 26  2019 opt
+lrwxrwxrwx  1 root root       4 Sep  4  2019 run -> /run
+drwxr-xr-x  2 root root    4096 Jan 29  2019 snap
+drwxr-xr-x  5 root root    4096 Sep  4  2019 spool
+drwxrwxrwt  6 root root    4096 Oct 22 15:25 tmp
+drwxr-xr-x  3 root root    4096 Sep  4  2019 www
